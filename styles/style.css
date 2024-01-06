@@ -1,4 +1,5 @@
 /* nav related style */
+
 body {
     font-family: 'Open Sans', sans-serif;
 }
@@ -22,8 +23,9 @@ nav li {
     margin-right: 50px;
 }
 
-nav a {
+a {
     text-decoration: none;
+    color: #FFF8F3;
 }
 
 
