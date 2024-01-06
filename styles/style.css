@@ -102,3 +102,42 @@ nav a {
 .banner-content{
     width: 500px;
 }
+/* main related style */
+/* About style */
+.about-title{
+    color: #181818;
+    font-size: 35px;
+}
+.about-description{
+    color: #757575;
+    font-size: 15px;
+    margin: 15px 0px;
+    text-align: center;
+}
+.about-section{
+    background-color: #FFF8F3;
+    margin:100px 200px;
+    padding: 100px;
+   
+}
+.about-title{
+    text-align: center;
+}
+.about-section-info{
+    display: flex;
+    justify-content: space-around;
+}
+.info-title{
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 5px;
+
+}
+.info-description{
+    font-size: 18px;
+    color: #474747;
+    margin: 0;
+}
+.about-info{
+    text-align: center;
+}
