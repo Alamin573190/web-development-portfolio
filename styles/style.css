@@ -1,0 +1,104 @@
+/* nav related style */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 200px;
+
+
+}
+
+nav>ul {
+    display: flex;
+    align-items: center;
+
+}
+
+nav li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+
+
+
+.nav-title {
+    font-size: 45px;
+    color: #181818;
+    font: 800px;
+    ;
+    height: 50px;
+    width: 120px;
+    align-items: center;
+}
+
+.text-primary {
+    color: #FD6E0A;
+}
+
+.btn-primary {
+    padding: 15px 35px;
+    color: white;
+    background: #FD6E0A;
+    border: 0;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+
+
+}
+
+/* header related style */
+.header {
+    background: #FFF8F3;
+    background: url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 650px;
+    
+
+}
+
+.banner {
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+}
+
+.banner .profile-picture {
+    width: 450px;
+    height: 500px;
+
+}
+
+.banner-small-title {
+    font-size: 40px;
+    color: #474747;
+    margin: 0px;
+
+}
+
+.banner-title {
+    font-size: 70px;
+    font-weight: 700px;
+    color: #181818;
+    margin-top:5px ;
+    margin-bottom: 20px;
+}
+.banner-description{
+    color: #757575;
+    margin: 20px 0px;
+
+}
+.banner-content{
+    width: 500px;
+}
